@@ -17,7 +17,7 @@ title: "Hello. I'm Thomas Nobes."
 email: 'thomas.nobes1@monash.edu'
 description: "I'm a Ph.D candidate at Monash University, Australia. I am particularly interested in heuristic search and am currently working on pathfinding, and subsequently pipe routing in 3D."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://thomasnobes.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://thomasnobes.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
 github_username: 'ThomasNobesMonash'
 medium_username: ''
