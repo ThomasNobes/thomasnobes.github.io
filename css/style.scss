@@ -32,8 +32,15 @@ $secondary: #FF7B7B;
   }
 }
 
+/*--------------------------------------------------------------
+	Other colour choices:
+        - Default: #e9edf0
+        - Darker teal: #73C6B6
+        - Very light teal: #E8F6F3
+        
+--------------------------------------------------------------*/
 body {
-  background-color: #e9edf0;
+  background-color: #73C6B6;
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 }
