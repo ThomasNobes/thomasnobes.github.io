@@ -11,7 +11,7 @@ permalink: /projects/
 
 # Projects
 
-Below is a non-exhaustive list of various projects I have worked on in the past and present.
+Below is a non-exhaustive list of projects I have worked on in the past and present:
 > 1. Pipe Routing in 3D for Industrial Plant Design (3D Pathfinding) 
 > 2. Coupling Behavioural and Disease Dynamics (Game Theory)
 > 3. Counting Seals with Convolutional Neural Networks (Machine-vision)

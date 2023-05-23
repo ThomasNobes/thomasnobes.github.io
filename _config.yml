@@ -16,11 +16,12 @@
 title: "Hello. I'm Thomas Nobes."
 email: 'thomas.nobes1@monash.edu'
 enable_email: true # enable/disable email link button
-description: "I'm a Ph.D candidate at Monash University, Australia. I am particularly interested in heuristic search and am currently working on pipe routing, and subsequently pathfinding in 3D."
+description: "I'm a Ph.D candidate at Monash University, in Melbourne, Australia. I am particularly interested in heuristic search and pathfinding in 3D. I work towards improving existing automatic methods for pipe-routing in 3D for industrial plant layout design."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thomasnobes.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
-github_username: 'ThomasNobesMonash'
+github_username: ''
+# github_username: 'ThomasNobesMonash'
 medium_username: ''
 
 # Build settings
@@ -93,7 +94,7 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2022 Thomas Nobes'
+footer_text: '© 2023 Thomas Nobes'
 admin_name: 'Thomas Nobes'
 google_analytics: "" # Update with your own tracking ID
 enable_contact: true
