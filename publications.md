@@ -22,7 +22,7 @@ The following is the current list of my publications (updated 05/2023):
 ### 2) Voxel Benchmarks for 3D Pathfinding: Sandstone, Descent, and Industrial Plants
 ##### Published at the 16th International Symposium on Combinatorial Search (SoCS), 2023
 
-[Download the paper (coming soon)]().
+[Download the paper](/files/voxel_benchmarks_for_3d_pathfinding_sandstone_descent_and_industrial_plants.pdf).
 
 **Abstract:** Voxel grids are an increasingly common enabler for pathfinding in 3D spaces. Currently in this area there exists only a limited number of publicly available benchmarks. This makes it difficult to establish state-of-the-art performance and to compare the strengths and weaknesses of competing search techniques. In this work, we introduce three new and diverse sets of voxel benchmarks intended to help fill this gap. We further describe our methodology for generating and selecting a representative set of pathfinding queries. Our dataset comprises 46 distinct voxel maps and 92,000 problem instances. The data is drawn from distinct application domains: computer video games, industrial plant layouts and sandstone porosity scans. Featuring distinctive geometric properties and a variety of challenging query types, these new datasets allow practitioners to evaluate algorithmic performance across a variety of settings encountered when pathfinding in practice
 
